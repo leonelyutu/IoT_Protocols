@@ -47,4 +47,13 @@ Un ejempls de Message Services e sun chat, donde no podemos recuperar mensajes e
 * **AMQP (ADVANCED MESSAGE QUEUING PROTOCOL):** Es un protocolo PubSub de Message Queue. está diseñado para asegurar la confiabilidad e interoperatibilidad. Está pensado para aplicaciones corporativas, con mayor rendimiento y redes de baja latencia. No resulta tan adecuado para aplicaciones de IoT con dispositivos de bajos recursos.
 
 
+* **WAMP (WEB APPLICATION MESSAGING PROTOCOL):**: Es un protocolo abierto que se ejecuta sobre WebSockets, y provee tanto aplicaciones PubSub como rRPC.
+
+* **CoAP (Constrained Application Protocol):**: Es un protocolo pensado para emplearse en dispositivos de IoT de baja capacidad. Emplea el modelo REST de HTPP con cabeceras reducidas, añadiendo soporte UDP, multicast y mecanismos de seguridad adicionales.
+
+* **STOPM (Streaming Text Oriented Messagind Protocol):** Es un protocolo sencillo que emplea HTTP y mensajes de texto para buscar el máximo de interoperatibilidad.
+
+* **XMPP (Extensible Messaging and Presence Protocol):** Es un protocolo abierto basado en XML diseñado par aplicaciones de mensajeria instantánea.
+
+* **WMQ (WebSphere MQ):** es un protocolo de Message Queue desarrollado por IBM.
 
