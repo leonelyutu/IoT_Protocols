@@ -17,3 +17,10 @@ Tipo de comunicacion Machine to Machine.
 
 ## Externalización de la comunicación a un servicio de notificaciones centralizado
 La solución que se plantea en este modelo es disponer de un servidor central que se encarga de recibir todos los mensajes de todos los dispositivos emisores y distribuirlos a los receptores, se llemara de forma generica *Router o *Brocker.
+
+## Metodologías en IoT
+### PUBLISH / SUSBCRIBE (PUBSUB)
+Es un patrón de mensajería donde un agente, el "Subscriber", informa al Router que quiere recibir un tipo de mensjes. Otro agente, el "Publisher" pude publicar mensajes. El router distribuye los mensajes a los Subscribers.
+
+### ROUTER REMODER PROCEDURE CALLS (RRPC)
+El rRPC es un patron de ejecución remota de procedimientos donde un agente, llamado "Callee", comunica al Router que proporiona un cierto procedimiento 
