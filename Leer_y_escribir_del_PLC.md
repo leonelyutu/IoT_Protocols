@@ -1,7 +1,7 @@
 # LEER Y ESCRIBIR DESDE EL PLC
 ## OBJETIVOS
-*Enviar mensajes de alarma por Telegram
-*Usar protocolos MQTT
+* Enviar mensajes de alarma por Telegram
+* Usar protocolos MQTT
 
 ## Introducción
 La gama **M221, M241, M251** no tiene conectividad con la nube, y para ello se necesita de una **Edge Box de Schneider**
