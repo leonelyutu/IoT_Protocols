@@ -18,5 +18,9 @@ Definir las siguientes IPs
 
 Esta dirección se usara posteriormente para interactuar con **node-red** mediante un explorador de internet.
 
+### El Router
+Este será el encargado de que ambos elementos estén en la misma subred y además será la salida a internet, por ADSL o 3G. No es necesario ni la ip fija ni abror puertos **(Gracias a túnel inverso nginx o ngrok)**
+
+fuente: https://www.linkedin.com/pulse/como-conectar-los-plcs-la-nube-xavier-florensa-berenguer/
 
 
