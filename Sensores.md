@@ -29,3 +29,4 @@ Los sensores de temperatura ofrecen una entrada a un sistema (indicador, regulad
 
 ## Normas para accesorios
 IEC 61076-2-101, “Conectores para equipo electrónico"
+El conector “M12”, es una característica común en muchas aplicaciones de detección y control.
